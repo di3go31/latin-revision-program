@@ -1,5 +1,5 @@
 # latin-revision-program
-A C# desktop app with SQL connection; MySQL Desktop Solution for Multi-User Question Management and Performance Analytics.
+A C# desktop app with SQL connection; SQL Server Desktop Solution for Multi-User Question Management and Performance Analytics.
 
 ## Documentation
 

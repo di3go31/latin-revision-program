@@ -1,4 +1,4 @@
-# latin-revision-program
+# Performance Analytics Desktop Application
 A C# desktop app with SQL connection; SQL Server Desktop Solution for Multi-User Question Management and Performance Analytics.
 
 ## Documentation
